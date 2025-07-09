@@ -45,7 +45,7 @@ E.g "Barnett_2025_Empathy_ZScore.csv"
 
 Please note only **.csv** files may be included. 
 
-# Empathy
+#Empathy
 
 Proxies for empathy may include: 
 * dot
@@ -54,7 +54,7 @@ Proxies for empathy may include:
 
 **Link to Upload:**
 
-# Identity
+#Identity
 
 Proxies for Identity may include: 
 * dot
