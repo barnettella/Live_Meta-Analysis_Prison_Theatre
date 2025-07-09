@@ -52,10 +52,14 @@ Proxies for empathy may include:
 * dot
 * dot
 
+### Link to Upload:  
+
 ## Identity
 
 Proxies for Identity may include: 
 * dot
 * dot
 * dot
+
+### Link to Upload:  
 
