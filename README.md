@@ -48,18 +48,20 @@ Please note only **.csv** files may be included.
 #Empathy
 
 Proxies for empathy may include: 
-* dot
-* dot
-* dot
+* Personal Reactivity Index
+* Teamworking measures
+* Interpersonal Questionnaires
+* etc.
 
 **Link to Upload:**
 
 #Identity
 
 Proxies for Identity may include: 
-* dot
-* dot
-* dot
+* Self-reporting questionnaires
+* Embodied relationships
+* Confidence measures
+* etc. 
 
  **Link to Upload:**
 
