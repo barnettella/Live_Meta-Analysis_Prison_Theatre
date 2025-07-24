@@ -55,6 +55,7 @@ Proxies for empathy may include:
 
 **Link to Upload:**
 Standard Deviation: https://www.dropbox.com/request/VG6j9rJ0zFokBEvEIflZ
+
 Z Score: https://www.dropbox.com/request/Nxm6AhEz6K6IthMKHSk2
 
 #Identity
@@ -67,6 +68,7 @@ Proxies for Identity may include:
 
  **Link to Upload:**
  Standard Deviation: https://www.dropbox.com/request/M6od1PMbt6hSBNboIFY9
+ 
  Z Score: https://www.dropbox.com/request/3XQLearD84TPZ1czQ8lp
 
 # Link to live MA here: https://barnettella.github.io/Live_Meta-Analysis_Prison_Theatre/
