@@ -3,6 +3,10 @@
 
 # In[59]:
 
+# This code was taken from ShinyLive, which is a Python package for building interactive web applications.
+# It is designed to work in both regular Python environments and in Pyodide, which is a Python interpreter that runs in the browser.
+# The code provides an async function to fetch data from a URL, parse it as a string, bytes, or JSON, and return an HttpResponse object
+# containing the status and data.
 
 import pandas as pd
 import numpy as np
@@ -58,6 +62,9 @@ async def get_all_data():
     if all_data is None:
         all_data = {key: await get_dfs_from_github(key) for key in ["Empathy", "Identity"]}
     return all_data
+
+# Code below is used to compute the effect size from the dataframes
+# Code taken and adjusted from previous meta-analysis codebooks (Appendix 1 & 2)
 
 
 def compute_effect_from_df(df, study_name, r=0.5):
@@ -235,6 +242,10 @@ async def compute_and_plot_forest(folder_name):
 async def compute_and_plot_funnel(folder_name):
     concatenated_data = await compute_effects(folder_name)
     return await plot_funnel(concatenated_data)
+
+# render plots for the final app
+# This function will be called by the ShinyLive server to render the plots
+# this was taken from the ShinyLive documentation
 
 def server(input, output, session):
     @output()
