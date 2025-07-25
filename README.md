@@ -43,7 +43,9 @@ Please name your file in the naming convention here: "Nameofresearcher_year_Data
 
 E.g "Barnett_2025_Empathy_ZScore.csv"
 
-Please note only **.csv** files may be included. 
+Please note **.csv** files are preferred. 
+
+Please also include the best email to contact researchers on in case of any issues. 
 
 #Empathy
 
@@ -70,5 +72,7 @@ Proxies for Identity may include:
  Standard Deviation: https://www.dropbox.com/request/M6od1PMbt6hSBNboIFY9
  
  Z Score: https://www.dropbox.com/request/3XQLearD84TPZ1czQ8lp
+
+Please email PrisonTheatre.livemeta@gmail.com with any questions. 
 
 # Link to live MA here: https://barnettella.github.io/Live_Meta-Analysis_Prison_Theatre/
